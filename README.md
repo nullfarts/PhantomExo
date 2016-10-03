@@ -18,6 +18,8 @@ Step 6. Zip up Payload, iTunesArtwork & change extension to .ipa <br />
 Step 7. Download Cydia Impactor. http://www.cydiaimpactor.com/ (Avail on Windows/Mac/Linux)<br />
 Step 8. Plug in iOS device then navigate to Device>Install Package & direct program to downloaded .ipa file. <br />
 
-Note: To install the Apple Watch Kit Remote app, you must have an Apple developer account with UDID of watch registered. <br />
+Note: To install the Apple Watch Kit Remote app, you must only follow steps 2-3 if using link above. <br />
+You must have a Apple developer account with UDID of watch registered to it. <br />
+You must use iOS App Signer & select your provisioning profile. <br />
 
 
