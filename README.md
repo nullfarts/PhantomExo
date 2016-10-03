@@ -4,7 +4,9 @@ Side-loadable version of Phantom for Snapchat. (Available on Cydia)
 No jailbreak needed! <br />
 
 If this link is not dead, download .ipa & skip to step 7. <br />
-<a href="http://www28.zippyshare.com/v/8RmBTggh/file.html" target="_blank" class="zippyshare_link">Snapchat-9.40.1.0-with-phantom.ipa</a>
+<a href="http://www1.zippyshare.com/v/Tnqisrva/file.html" target="_blank" class="zippyshare_link">Snapchat-9.40.1.0-with-phantom.ipa</a>
+Updated link & info.plist to support newer hardware. 
+
 
 Step 1. Find a cracked version of Snapchat online. You will need version 9.40.1.0. <br />
 Step 2. Change .ipa extension to .zip & unzip. <br />
