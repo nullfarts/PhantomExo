@@ -9,8 +9,8 @@ If this link is not dead, download .ipa & skip to step 7. <br />
 
 Changes in v1.0.1: <br/>
 
--- Recording fixed
--- Ability to verify udid for license
+-- Recording fixed <br/>
+-- Ability to verify udid for license <br/>
 
 Step 1. Find a cracked version of Snapchat online. You will need version 9.40.1.0. <br />
 Step 2. Change .ipa extension to .zip & unzip. <br />
