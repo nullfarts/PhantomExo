@@ -7,6 +7,10 @@ If this link is not dead, download .ipa & skip to step 7. <br />
 <a href="http://www1.zippyshare.com/v/Tnqisrva/file.html" target="_blank" class="zippyshare_link">Snapchat-9.40.1.0-with-phantom.ipa</a>
 Updated link & info.plist to support newer hardware. 
 
+Changes in v1.0.1: <br/>
+
+-- Recording fixed
+-- Ability to verify udid for license
 
 Step 1. Find a cracked version of Snapchat online. You will need version 9.40.1.0. <br />
 Step 2. Change .ipa extension to .zip & unzip. <br />
