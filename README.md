@@ -14,6 +14,7 @@ Note: You will be asked to accept an agreement in Impactor. Got to http://develo
 Changes in v1.0.2: <br/>
 
 -- Removed Flex bar <br/>
+-- Fixed "Hide Live Stories" feature<br/>
 -- Fixed crash when importing a filter <br/>
 -- Support longer ECID on newer devices <br/>
 -- Added iPhone5,2 to Info.plist <br/>
