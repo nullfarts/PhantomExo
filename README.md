@@ -4,12 +4,18 @@ Side-loadable version of Phantom for Snapchat. (Available on Cydia)
 No jailbreak needed! <br />
 
 If this link is not dead, download .ipa & skip to step 7. <br />
-<a href="http://www29.zippyshare.com/v/v55lMt1m/file.html" target="_blank" class="zippyshare_link">Snapchat-9.40.1.0-with-phantom-v1.0.2.ipa</a>
+<a href="http://www14.zippyshare.com/v/ngCWHvz8/file.html" target="_blank" class="zippyshare_link">Snapchat-9.40.1.0-with-phantom-v1.0.2-1.ipa</a>
 
 
--- Music filter & manager is coming soon!<br/>
 
 Note: You will be asked to accept an agreement in Impactor. Got to http://developer.apple.com & sign in to accept. <br/>
+
+Changes in v1.0.2-1: <br/>
+
+-- Support longer ECID on newer devices <br/>
+
+-- Fixed ECID popup error
+-- Music filter & manager is coming soon!<br/>
 
 Changes in v1.0.2: <br/>
 
