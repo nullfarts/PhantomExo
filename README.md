@@ -62,10 +62,13 @@ Step 6. Drag all files from iExplorer>Snapchat into newly created "Documents" fo
 Step 7. Unzip "Snapchat-9.40.1.0-with-phantom-v1.0.3.zip" (downloaded from link above)<br />
 Step 8. Copy "Documents" folder to Payload>Snapchat.app <br />
 Step 9. Select "Payload" & "iTunesArtwork" with finder (Mac) & click "Compress 2 items" <br />
-Step 10. Connect device, & install zip with Cydia Impactor. Open Snapchat. See alert, restart, done. <br />
-
+Step 10. Connect device, & install zip with Cydia Impactor. Open Snapchat. See alert, restart. <br />
+Step 11. DO NOT ALLOW NOTIFICATIONS IN THE NEWLY INSTALLED PHANTOM APP! <br />
+Done. <br />
 
 Note: You only need to do this once, as long as you never logout. Repeat all steps if this happens. <br />
+Do not delete the Appstore Snapchat app, that is where you will get notfications from. (Hacky, I know) <br />
+
 
 
 
