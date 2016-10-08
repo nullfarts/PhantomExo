@@ -51,7 +51,7 @@ You must have a Apple developer account with UDID of watch registered to it. <br
 You must use iOS App Signer & select your provisioning profile. <br />
 
 
-[GUIDE] How to get Snapchat Notifications <br/>
+[GUIDE] How to get Snapchat Notifications/Get past "Could not connect" Login Error <br/>
 
 Step 1. Delete any versions of sideloaded/Appstore Phantom/Snapchat <br />
 Step 2. Download Snapchat from the Appstore, open & log into your account <br />
