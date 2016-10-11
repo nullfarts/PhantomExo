@@ -4,12 +4,17 @@ Side-loadable version of Phantom for Snapchat. (Available on Cydia)
 No jailbreak needed! <br />
 
 If this link is not dead, download .ipa & skip to step 7. <br />
-<a href="http://www119.zippyshare.com/v/k2BeP119/file.html" target="_blank" class="zippyshare_link">Snapchat-9.40.1.0-with-phantom-v1.0.3.zip</a>
+<a href="http://www120.zippyshare.com/v/H6EU6KEY/file.html" target="_blank" class="zippyshare_link">Snapchat-9.41.0.0-with-phantom-v1.0.4.zip</a>
 
 
 
 Note: You will be asked to accept an agreement in Impactor. Got to http://developer.apple.com & sign in to accept. <br/>
 
+
+Changers in v1.0.4: <br/>
+
+-- Updated support for Snapchat 9.41.0.0 <br/>
+-- Fixed error when validating udid <br/>
 
 Changes in v1.0.3: <br/>
 
@@ -36,7 +41,7 @@ Changes in v1.0.1: <br/>
 -- Recording fixed <br/>
 -- Ability to verify udid for license <br/>
 
-Step 1. Find a cracked version of Snapchat online. You will need version 9.40.1.0. <br />
+Step 1. Find a cracked version of Snapchat online. You will need version 9.40.1.0+ <br />
 Step 2. Change .ipa extension to .zip & unzip. <br />
 Step 3. Copy & paste phantom_exo.dylib, phantom.bundle, & Watch in the /Payload/Snapchat.app folder <br />
 Step 4. Navigate to Build_Tools directory. <br />
