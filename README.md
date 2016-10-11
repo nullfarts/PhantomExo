@@ -4,7 +4,7 @@ Side-loadable version of Phantom for Snapchat. (Available on Cydia)
 No jailbreak needed! <br />
 
 If this link is not dead, download .ipa & skip to step 7. <br />
-<a href="http://www120.zippyshare.com/v/H6EU6KEY/file.html" target="_blank" class="zippyshare_link">Snapchat-9.41.0.0-with-phantom-v1.0.4.zip</a>
+<a href="http://www91.zippyshare.com/v/gUbtISFh/file.html" target="_blank" class="zippyshare_link">Snapchat-9.41.0.0-with-phantom-v1.0.4.zip</a>
 
 
 
