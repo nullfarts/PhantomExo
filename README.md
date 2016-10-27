@@ -6,7 +6,7 @@ No jailbreak needed! <br />
 
 # arm64 download
 If this link is not dead, download .ipa & skip to step 7. <br />
-<a href="http://www20.zippyshare.com/v/kkyL6B7P/file.html" target="_blank" class="zippyshare_link">Snapchat-9.42.0.1-with-phantom-v1.0.6-iOS10.zip</a>
+<a href="http://www84.zippyshare.com/v/Kt05Sf8h/file.html" target="_blank" class="zippyshare_link">Snapchat-9.42.0.1-with-phantom-v1.0.6-iOS10.zip</a>
 
 I will keep this link below for iOS9 users who need notifications. (Bundle id is not edited) <br/>
 <a href="http://www20.zippyshare.com/v/R6qrisod/file.html" target="_blank" class="zippyshare_link">Snapchat-9.42.0.1-with-phantom-v1.0.6-iOS9.ipa</a>
