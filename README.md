@@ -4,18 +4,26 @@ Side-loadable version of Phantom for Snapchat. (Available on Cydia)
 No jailbreak needed! <br />
 
 If this link is not dead, download .ipa & skip to step 7. <br />
-<a href="http://www21.zippyshare.com/v/jzv094bo/file.html" target="_blank" class="zippyshare_link">Snapchat-9.41.2.0-with-phantom-v1.0.5-iOS10.zip</a>
+<a href="http://www92.zippyshare.com/v/Cose5n6j/file.html" target="_blank" class="zippyshare_link">Snapchat-9.42.0.1-with-phantom-v1.0.6-iOS10.zip</a>
 
 I will keep this link below for iOS9 users who need notifications. (Bundle id is not edited) <br/>
-<a href="http://www64.zippyshare.com/v/JkxT2qdt/file.html" target="_blank" class="zippyshare_link">Snapchat-9.41.2.0-with-phantom-v1.0.5-iOS9.zip</a>
+<a href="http://www92.zippyshare.com/v/xvLWRNcd/file.html" target="_blank" class="zippyshare_link">Snapchat-9.42.0.1-with-phantom-v1.0.6-iOS9.ipa</a>
 
 
 Note: You will be asked to accept an agreement in Impactor. Got to http://developer.apple.com & sign in to accept. <br/>
 
-Changes in v1.0.5
+Changes in v1.0.6 </br>
+
+-- Snapchat v9.42.0.1 support </br>
+-- Fixes crash when viewing images in chat </br>
+-- Fixes "Passed media is null" error </br>
+
+
+</br>
+
+Changes in v1.0.5 </br>
 
 -- Snapchat v9.41.2.0 support </br>
-</br>
 
 Changes in v1.0.4: <br/>
 
