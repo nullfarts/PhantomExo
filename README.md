@@ -22,6 +22,9 @@ I will keep this link below for iOS9 users who need notifications. (Bundle id is
 
 Note: You will be asked to accept an agreement in Impactor. Got to http://developer.apple.com & sign in to accept. <br/>
 
+
+# Changes
+
 Changes in v1.0.6 </br>
 
 -- Snapchat v9.42.0.1 support </br>
@@ -64,6 +67,8 @@ Changes in v1.0.1: <br/>
 
 -- Recording fixed <br/>
 -- Ability to verify udid for license <br/>
+
+# Installation Steps
 
 Step 1. Find a cracked version of Snapchat online. You will need version 9.40.1.0+ <br />
 Step 2. Change .ipa extension to .zip & unzip. <br />
